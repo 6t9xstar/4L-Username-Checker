@@ -16,7 +16,7 @@ Designed with hacker-style visuals, sound alerts, and Telegram notifications.
 
 🔍 Check Instagram username availability
 
-🔢 Supports 4-letter, 5-letter, and 6-letter modes
+🔢 Supports 4-letter
 
 🎨 Hacker-style Kali Linux banner
 
