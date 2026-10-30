@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/6t9xstar/4L-Username-Checker?style=social)
+
 Here is a clean, professional GitHub README.md you can upload directly.
 It matches your MALIK hacker-style project, explains usage clearly, and looks serious + premium (not childish).
 
